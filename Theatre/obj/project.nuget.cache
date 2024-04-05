@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XsqgAfciZp4RmirTLzkQvAbDg4kiXNmjJKsrmoGhj0kdQjfer1hSeBXFmwFHFprL2MWyNQJB4FkigEwrhE6sKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BRDen\\OneDrive\\Универ\\3 курс\\2 семестр\\Имитационное моделирование\\932101.immod.seluyanov.lab7\\Theatre\\Theatre.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BRDen\\.nuget\\packages\\winforms.datavisualization\\1.9.2\\winforms.datavisualization.1.9.2.nupkg.sha512"
+  ],
+  "logs": []
+}
