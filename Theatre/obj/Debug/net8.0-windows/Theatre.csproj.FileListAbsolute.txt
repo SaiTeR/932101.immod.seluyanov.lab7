@@ -18,3 +18,4 @@ C:\Users\BRDen\OneDrive\Универ\3 курс\2 семестр\Имитаци�
 C:\Users\BRDen\OneDrive\Универ\3 курс\2 семестр\Имитационное моделирование\932101.immod.seluyanov.lab7\Theatre\obj\Debug\net8.0-windows\Theatre.pdb
 C:\Users\BRDen\OneDrive\Универ\3 курс\2 семестр\Имитационное моделирование\932101.immod.seluyanov.lab7\Theatre\obj\Debug\net8.0-windows\Theatre.genruntimeconfig.cache
 C:\Users\BRDen\OneDrive\Универ\3 курс\2 семестр\Имитационное моделирование\932101.immod.seluyanov.lab7\Theatre\obj\Debug\net8.0-windows\ref\Theatre.dll
+C:\Users\BRDen\OneDrive\Универ\3 курс\2 семестр\Имитационное моделирование\932101.immod.seluyanov.lab7\Theatre\obj\Debug\net8.0-windows\Theatre.sourcelink.json

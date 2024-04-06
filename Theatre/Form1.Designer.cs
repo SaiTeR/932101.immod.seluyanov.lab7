@@ -75,11 +75,12 @@
             series1.ChartArea = "ChartArea1";
             series1.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.FastLine;
             series1.Legend = "Legend1";
-            series1.Name = "Выручка";
+            series1.Name = "Доход";
             chart1.Series.Add(series1);
             chart1.Size = new Size(1291, 360);
             chart1.TabIndex = 0;
             chart1.Text = "chart1";
+            chart1.Click += chart1_Click;
             // 
             // timer1
             // 
